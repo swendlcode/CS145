@@ -1,3 +1,11 @@
+Assuming you are referring to a software code created by Swendl and the associated copyright policy, "all rights reserved" means that Swendl is the sole owner of the copyright for that code and retains all legal rights to control its use, reproduction, and distribution.
+
+If someone copies or uses Swendl's code without permission, that would constitute copyright infringement, which is illegal. Swendl could take legal action to enforce their copyright and seek damages for any harm caused by the infringement.
+
+To detect plagiarism or unauthorized use of their code, Swendl could use various tools and techniques such as searching for identical or similar code snippets, comparing timestamps, or monitoring online repositories and websites for instances of unauthorized use. There are also software tools specifically designed to help detect plagiarism in code, such as "Code Plagiarism Checker" or "Moss". 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
 CS 145 - Java 2-Data Structures
 Credits: 5
 A continuation of CS& 141. Uses Java language to cover topics such as classes and interfaces, inheritance, basic design principles, exceptions, stream I/O, user interfaces, recursion, elementary data structures and associated algorithms (lists, queues, stacks, trees); and introduces performance analysis and implementation trade-offs. Successful completion of the course gives students the tools they need to construct substantial computer programs and understand computers and software. Provides a good foundation for further study in computer science and engineering.
