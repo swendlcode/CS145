@@ -1,0 +1,11 @@
+Q:Is it a team sport?
+Q:Does it use a ball?
+Q:Is it played outdoors?
+A:soccer
+A:basketball
+Q:Is it played in water?
+A:water polo
+A:volleyball
+Q:Does it involve racing?
+A:relay race
+A:swimming
