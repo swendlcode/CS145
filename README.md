@@ -1,3 +1,5 @@
+# CS145 work made by Swendl
+
 Assuming you are referring to a software code created by Swendl and the associated copyright policy, "all rights reserved" means that Swendl is the sole owner of the copyright for that code and retains all legal rights to control its use, reproduction, and distribution.
 
 If someone copies or uses Swendl's code without permission, that would constitute copyright infringement, which is illegal. Swendl could take legal action to enforce their copyright and seek damages for any harm caused by the infringement.
