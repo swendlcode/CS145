@@ -30,4 +30,4 @@ Critical Thinking - Critical thinking finds expression in all disciplines and ev
 Quantitative and Symbolic Reasoning - Quantitative Reasoning encompasses abilities necessary for a student to become literate in today's technological world. Quantitative reasoning begins with basic skills and extends to problem solving.
 
 
-##© 2023 Swendl, Inc.
+© 2023 Swendl, Inc.
