@@ -1,5 +1,4 @@
-# CS145
-## WORK MADY BY SWENDL
+# CS145 Course 
 
 Assuming you are referring to a software code created by Swendl and the associated copyright policy, "all rights reserved" means that Swendl is the sole owner of the copyright for that code and retains all legal rights to control its use, reproduction, and distribution.
 
@@ -29,3 +28,6 @@ Program Outcomes
 College-wide Outcomes
 Critical Thinking - Critical thinking finds expression in all disciplines and everyday life. It is characterized by an ability to reflect upon thinking patterns, including the role of emotions on thoughts, and to rigorously assess the quality of thought through its work products. Critical thinkers routinely evaluate thinking processes and alter them, as necessary, to facilitate an improvement in their thinking and potentially foster certain dispositions or intellectual traits over time.
 Quantitative and Symbolic Reasoning - Quantitative Reasoning encompasses abilities necessary for a student to become literate in today's technological world. Quantitative reasoning begins with basic skills and extends to problem solving.
+
+
+### © 2023 Swendl, Inc.
