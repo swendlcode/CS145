@@ -1,4 +1,4 @@
-# CS145 work made by Swendl
+# CS145 WORK MADY BY SWENDL.
 
 Assuming you are referring to a software code created by Swendl and the associated copyright policy, "all rights reserved" means that Swendl is the sole owner of the copyright for that code and retains all legal rights to control its use, reproduction, and distribution.
 
